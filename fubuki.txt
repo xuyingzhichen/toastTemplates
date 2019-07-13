@@ -23,7 +23,7 @@
 <!--回复覆盖-->
 <!--回复黑线后对齐-->
 <div style="margin:10px 38px">
-&emsp;&emsp;&emsp;<img src="img/fbk_small.jpg" width="360">
-    <h4 style="margin:0 0 0 35px">&emsp;{T}</h6>
+&emsp;&emsp;&emsp;&ensp;<img src="img/fbk_small.jpg" width="360">
+    <h4 style="margin:0 0 0 35px">&emsp;&ensp;{T}</h6>
 </div>
 <!--回复黑线后对齐-->
